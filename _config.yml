@@ -2,11 +2,14 @@
 # This file contains configuration flags to customize your site
 #
 
+markdown: kramdown
+
 # Name of your site (displayed in the header)
 name: CMWT
 
 # Short bio or description (displayed in the header)
-description: Programmers are free to govern the worlds they create;
+description: >
+    Programmers are free to govern the worlds they create; \\
     this freedom should be shared with everyone.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
